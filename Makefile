@@ -21,3 +21,7 @@ delete:
 clean:
 
 
+test:
+    ADDRESS=go-demo-6.cd-staging.35.190.149.250.nip.io go test -v
+test:
+    ADDRESS=go-demo-6.cd-staging.35.190.149.250.nip.io go test -v
